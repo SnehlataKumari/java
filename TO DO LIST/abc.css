@@ -1,0 +1,19 @@
+div{
+border-color : black;
+border-width : 10px;
+background-color : yellow;
+font-size:50;
+padding:12;
+margin-left:500px;
+margin-right:500px;
+}
+h1{
+background-color : yellow;	
+font-size:100;
+}
+div1{
+	background-color:blue
+}
+body{
+	background-color:rgb(120,30,80);
+}
