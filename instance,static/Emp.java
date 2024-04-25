@@ -10,8 +10,7 @@ void get (String s1,int s2){
 void show(){
 	System.out.println(name);
 	System.out.println(salary);
-	System.out.println(cname);
-	
+	System.out.println(cname);	
 }
 static int add(int a,int b){
 	return a+b;
